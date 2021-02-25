@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Register Test Case</name>
+   <name>Cart Test Case</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>a16dbdee-494d-4c2e-9fc1-e6761aab6e1b</testCaseGuid>
+   <testCaseGuid>86aefe62-c043-4e98-934d-4e8ad6d705fe</testCaseGuid>
 </TestCaseEntity>
