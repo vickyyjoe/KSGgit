@@ -19,19 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://automationpractice.com/index.php')
-
-WebUI.click(findTestObject('Page_My Store/Sign In Welcome Page'))
-
-WebUI.setText(findTestObject('Page_Login - My Store/input_Email address_email'), 'abab@abab.com')
-
-WebUI.setEncryptedText(findTestObject('Page_Login - My Store/input_Password_passwd'), 'Et4MWeuM9Ns=')
-
-WebUI.click(findTestObject('Page_Login - My Store/Sign in Button'))
-
-WebUI.delay(2)
-
-WebUI.verifyElementVisible(findTestObject('Page_My account - My Store/h1_My account'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject(null))
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Open Website</name>
+   <name>Register Test Case</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>75cadfde-fe43-4385-81d4-2c9a166cb3ce</testCaseGuid>
+   <testCaseGuid>a16dbdee-494d-4c2e-9fc1-e6761aab6e1b</testCaseGuid>
 </TestCaseEntity>
